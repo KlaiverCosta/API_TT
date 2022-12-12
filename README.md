@@ -1,7 +1,7 @@
 # INSTALAÇÃO
  ``` pip install tweepy ```
 
- - Python 3.7 - 3.10 suportam a biblioteca.
+ - Python 3.7 - 3.10 suportam a biblioteca (Recomendado 3.10).
 
 # API_TT
  - Api para coleta de dados no twitter
